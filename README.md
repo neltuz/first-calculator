@@ -19,7 +19,9 @@ Statement are instructions that you give to a computer.
 Example
 ```js
 /*
-here is an instruction for adding two values and store in a variable called answer. In JavaScript statements usually ends with semi-colon
+here is an instruction for adding two values and 
+store in a variable called answer. 
+In JavaScript statements usually ends with semi-colon
 */
 let answer = 2 + 7;
 ```
