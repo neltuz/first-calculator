@@ -1,12 +1,16 @@
 function add(a, b) {
-    let addition = a + b;
-    console.log('addition', addition);
+  let addition = a + b;
+  console.log('addition', addition);
 }
 
 function multiply(a, b) {
-    let multiply = a * b;
-    console.log('multiply', multiply);
+  let multiply = a * b;
+  console.log('multiply', multiply);
 }
 
-add(1, 2)
-multiply(7, 10)
+function multiplyAndAdd(a, b) {
+  add(a, b);
+  multiply(a, b);
+}
+
+multiplyAndAdd(3, 6);

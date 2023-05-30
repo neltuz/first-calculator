@@ -5,9 +5,9 @@ let y = 10000000000870;
 addition = x + y;
 let multiplication = x * y;
 let subtraction = x - y;
-let division = x / y
+let division = x / y;
 
-console.log("addition", addition);
-console.log("multiplication", multiplication)
-console.log('subtraction', subtraction)
-console.log('division', division)
+console.log('addition', addition);
+console.log('multiplication', multiplication);
+console.log('subtraction', subtraction);
+console.log('division', division);

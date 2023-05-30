@@ -7,6 +7,6 @@ let subtraction = b - y;
 let division = b / y;
 
 console.log('addition', addition);
-console.log("multiplication", multiplication);
+console.log('multiplication', multiplication);
 console.log('subtraction', subtraction);
-console.log('division', division)
+console.log('division', division);
